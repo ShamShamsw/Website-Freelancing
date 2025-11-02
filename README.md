@@ -24,7 +24,7 @@ Don’t write a line of code until you have approval!
 - **Create a draft or proposal:** Use tools like Canva, or show a similar site you’ve already built.
 - **Get client sign-off:** Only proceed once the client approves the draft and contract.
 
-### Example Drafts
+### Example Drafts (**Limit yourself to 15 minutes when creating a draft**)
 
 Below are examples of site drafts/mockups provided to clients:
 
