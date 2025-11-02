@@ -4,6 +4,21 @@ Many people overcomplicate how easy it is to build a website for a client. Hereâ
 
 ---
 
+## Table of Contents
+
+- [Start with a Contract](#1-start-with-a-contract)
+- [Get Approval Before Coding](#2-get-approval-before-coding)
+- [Build the Website](#3-build-the-website)
+- [Communicate Progress](#4-communicate-progress)
+- [Delivery & Handover (End of Contract)](#5-delivery--handover-end-of-contract)
+- [Emergency Support Clause](#6-emergency-support-clause)
+- [Reflect and Improve](#7-reflect-and-improve)
+- [Final Thoughts](#final-thoughts)
+- [Contributing](#contributing)
+- [Questions?](#questions)
+
+---
+
 ## 1. Start with a Contract
 
 Before anything else, establish a contract with your client. This should include:
@@ -82,6 +97,18 @@ After the project:
 ## Final Thoughts
 
 Website freelancing doesnâ€™t need to be complicated. Focus on clear contracts, communication, and continuous improvement.
+
+---
+
+## Contributing
+
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## Questions?
+
+Open an issue or reach out on GitHub!
 
 ---
 
