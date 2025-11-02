@@ -28,9 +28,7 @@ Don’t write a line of code until you have approval!
 
 Below are examples of site drafts/mockups provided to clients:
 
-Uploads coming shortly
-![Draft Example 1](draft1.png)
-![Draft Example 2](draft2.png)
+![Draft Website 1](https://github.com/ShamShamsw/Website-Freelancing/blob/main/images/Wellness%20Challenge.png)
 
 ---
 
